@@ -6,7 +6,7 @@ function MidText() {
     <div className='MidText'>
         <div className='TextBox'>
           
-            Hello
+            Pinterest wishes Khushi<br/>A Very Happy Birthday!
         </div>
     </div>
   )

@@ -1,9 +1,9 @@
 
 .TextBox {
-    padding: 70px 170px 70px 170px;
+    padding: 70px 150px 70px 150px;
     border-radius: 18px;
     background: url('../Assets/Banner.png') center/cover;
-
+    text-align: center;
 }
 
 .MidText {
