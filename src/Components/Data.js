@@ -203,7 +203,7 @@ const Data = [
       imgSrc:
         Kritika1,
       name: "Kritika",
-      link: "https://pixabay.com/photos/man-waterfalls-bathe-bathing-falls-2150164/",
+      link: "https://drive.google.com/file/d/1eZawqlLsY4gwJUYe1UTSrsYXedgj4SHS/view?usp=drive_link",
       size: "large",
     },
     {
@@ -211,7 +211,7 @@ const Data = [
       imgSrc:
         Kritika2,
       name: "Kritika",
-      link: "https://pixabay.com/photos/rain-woman-brunette-portrait-1869119/",
+      link: "https://drive.google.com/file/d/1PBZ14C5Z6NiNVPuHoId7tAuQrpL1LivI/view?usp=drive_link",
       size: "medium",
     },
     {
@@ -219,7 +219,7 @@ const Data = [
       imgSrc:
         Kritika3,
       name: "Kritika",
-      link: "https://pixabay.com/photos/hands-plant-soil-grow-growing-1838659/",
+      link: "https://drive.google.com/file/d/18K7mI2EX3ehFSOnk0D40_ZcuLGBUrl1S/view?usp=drive_link",
       size: "medium",
     },
     {
@@ -227,7 +227,7 @@ const Data = [
       imgSrc:
         Kritika4,
       name: "Kritika",
-      link: "https://pixabay.com/photos/girl-rain-femininity-beauty-paris-3954232/",
+      link: "https://drive.google.com/file/d/1bTdrg-S9df-AEYoBIoIC9603WYnVfWzp/view?usp=drive_link",
       size: "large",
     },
     {
@@ -235,7 +235,7 @@ const Data = [
       imgSrc:
         Kritika5,
       name: "Kritika",
-      link: "https://pixabay.com/illustrations/snail-drops-rain-raindrops-mollusk-83672/",
+      link: "https://drive.google.com/file/d/1tsdOVEqGwrZCgztffNvhXP0oMzoXjzxS/view?usp=sharing",
       size: "small",
     },
     {
@@ -243,7 +243,7 @@ const Data = [
       imgSrc:
         Kritika6,
       name: "Kritika",
-      link: "https://pixabay.com/photos/buildings-houses-street-city-rain-5528981/",
+      link: "https://drive.google.com/file/d/1bIM2xb8eHKpdZKToADNlnI5x820fKbe2/view?usp=drive_link",
       size: "small",
     },
     {
@@ -251,7 +251,7 @@ const Data = [
       imgSrc:
         Michelle1,
       name: "Michelle",
-      link: "https://pixabay.com/illustrations/triangle-sky-abstract-wallpaper-2136288/",
+      link: "https://drive.google.com/file/d/1OLesUCDFdlw1KpUTDOsjdikBKjyIN_H0/view?usp=drive_link",
       size: "large",
     },
     {
@@ -259,7 +259,7 @@ const Data = [
       imgSrc:
         Michelle2,
       name: "Michelle",
-      link: "https://pixabay.com/photos/rain-street-tables-cafe-flowers-4996916/",
+      link: "https://drive.google.com/file/d/1AymE3iA54pqqC2OtdKEuUf8kCYoBIdQI/view?usp=drive_link",
       size: "small",
     },
     {
@@ -267,7 +267,7 @@ const Data = [
       imgSrc:
         Yelena1,
       name: "Yelena",
-      link: "https://pixabay.com/photos/heart-window-rain-drops-love-5190672/",
+      link: "https://drive.google.com/file/d/1kwwpG6roZfclwUSrqciIVCBUNkcuz2a_/view?usp=drive_link",
       size: "small",
     },
     {
@@ -275,7 +275,7 @@ const Data = [
       imgSrc:
         Yelena2,
       name: "Yelena",
-      link: "https://pixabay.com/photos/cat-kitten-pet-kitty-young-cat-551554/",
+      link: "https://drive.google.com/file/d/1a5Oo8z5mUolYgksZmLDkjJsDgEosjWxB/view?usp=drive_link",
       size: "large",
     },
     {
@@ -283,7 +283,7 @@ const Data = [
       imgSrc:
         Yelena3,
       name: "Yelena",
-      link: "https://pixabay.com/photos/branch-ornaments-lights-tree-6838719/",
+      link: "https://drive.google.com/file/d/1eySkJ0lGQDfDfbe6HchWs7d9GOOGYWrc/view?usp=drive_link",
       size: "small",
     },
     {
@@ -291,7 +291,7 @@ const Data = [
       imgSrc:
         Yelena4,
       name: "Yelena",
-      link: "https://pixabay.com/photos/christmas-balls-christmas-advent-6848782/",
+      link: "https://drive.google.com/file/d/1hA30Sx7v5NXecXesP12-Qpp_Fx4FAWCV/view?usp=drive_link",
       size: "medium",
     },
     {
@@ -299,7 +299,7 @@ const Data = [
       imgSrc:
         Yelena5,
       name: "Yelena",
-      link: "https://pixabay.com/photos/child-boy-run-alley-street-plants-5446839/",
+      link: "https://drive.google.com/file/d/1vXiituV9Gn5KK0cbNZoltpljbH0v-FYg/view?usp=drive_link",
       size: "large",
     },
     {
@@ -307,7 +307,7 @@ const Data = [
       imgSrc:
         Yelena6,
       name: "Yelena",
-      link: "https://pixabay.com/photos/cat-christmas-tree-ornaments-1822979/",
+      link: "https://drive.google.com/file/d/1EIo7YXhbIeeW4mukn9pblE3ki9sDXcJy/view?usp=drive_link",
       size: "medium",
     },
     {
@@ -315,7 +315,7 @@ const Data = [
       imgSrc:
         Yelena7,
       name: "Yelena",
-      link: "https://pixabay.com/photos/girl-rain-femininity-beauty-paris-3954232/",
+      link: "https://drive.google.com/file/d/1JNz3O_hXWJKYunz0_zyHcg2KQVsR5vI5/view?usp=drive_link",
       size: "large",
     },
     {
@@ -323,7 +323,7 @@ const Data = [
       imgSrc:
         Yelena8,
       name: "Yelena",
-      link: "https://pixabay.com/illustrations/snail-drops-rain-raindrops-mollusk-83672/",
+      link: "https://drive.google.com/file/d/1ypYCfLTDVr4gzPxS5tB9-xZ4oLArLS1M/view?usp=drive_link",
       size: "small",
     },
   ];
