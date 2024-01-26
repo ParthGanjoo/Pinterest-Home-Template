@@ -7,6 +7,8 @@ import { FaUserCircle } from 'react-icons/fa'
 import { MdKeyboardArrowDown } from 'react-icons/md'
 import { useState, useEffect, useRef } from 'react';
 import Logo from '../Assets/Logo (5).png'
+import PFP from '../Assets/PFP.png'
+import PFPcircle from '../Assets/Group 47.png'
 
 function Header() {
 
@@ -73,13 +75,13 @@ function Header() {
 
             <div className='dropdown-container' ref={dropdownRef}>
                 <div className='Account' onClick={handleToggleDropdown}>
-                    <FaUserCircle size="24px" />
+                    <img src={PFPcircle} width={26} />
                 </div>
 
                 {isDropdownOpen && (
                     <div className='dropdown-menu'>
-                        <img src="https://i.pinimg.com/564x/bd/94/ce/bd94ce28cf8aefb521bac31d547f6409.jpg" />
-                        <a href="https://github.com/devrimos" target="_blank">Khushi Khanna</a>
+                        <img src={PFP} />
+                        <a href="#" target="_blank">Khushi Khanna</a>
                     </div>
                 )}
             </div>

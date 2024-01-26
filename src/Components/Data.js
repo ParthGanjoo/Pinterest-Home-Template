@@ -1,25 +1,39 @@
-import Kavya1 from '../PinContent/Kavya 1.jpeg'
-import Kavya2 from '../PinContent/Kavya 2.jpeg'
-import Kavya3 from '../PinContent/Kavya 3.jpeg'
-import Kavya4 from '../PinContent/Kavya 4.jpeg'
-import Kavya5 from '../PinContent/Kavya 5.jpeg'
-import Kavya6 from '../PinContent/Kavya 6.jpeg'
-import Kavya7 from '../PinContent/Kavya 7.jpeg'
-import Kavya8 from '../PinContent/Kavya 8.jpeg'
-import Kavya9 from '../PinContent/Kavya 9.jpeg'
-import Kavya10 from '../PinContent/Kavya 10.jpeg'
-import Kavya11 from '../PinContent/Kavya 11.jpeg'
-import Kavya12 from '../PinContent/Kavya 12.jpeg'
-import Prisha1 from '../PinContent/Prisha 1.jpeg'
-import Prisha2 from '../PinContent/Prisha 2.jpeg'
-import Prisha3 from '../PinContent/Prisha 3.jpeg'
-import Prisha4 from '../PinContent/Prisha 4.jpeg'
-import Prisha5 from '../PinContent/Prisha 5.jpeg'
-import Prisha6 from '../PinContent/Prisha 6.jpeg'
-import Prisha7 from '../PinContent/Prisha 7.jpeg'
-import Prisha8 from '../PinContent/Prisha 8.jpeg'
-
-
+import Kavya1 from '../PinContent/Kavya/Kavya 1.jpeg'
+import Kavya2 from '../PinContent/Kavya/Kavya 2.jpeg'
+import Kavya3 from '../PinContent/Kavya/Kavya 3.jpeg'
+import Kavya4 from '../PinContent/Kavya/Kavya 4.jpeg'
+import Kavya5 from '../PinContent/Kavya/Kavya 5.jpeg'
+import Kavya6 from '../PinContent/Kavya/Kavya 6.jpeg'
+import Kavya7 from '../PinContent/Kavya/Kavya 7.jpeg'
+import Kavya8 from '../PinContent/Kavya/Kavya 8.jpeg'
+import Kavya9 from '../PinContent/Kavya/Kavya 9.jpeg'
+import Kavya10 from '../PinContent/Kavya/Kavya 10.jpeg'
+import Kavya11 from '../PinContent/Kavya/Kavya 11.jpeg'
+import Kavya12 from '../PinContent/Kavya/Kavya 12.jpeg'
+import Prisha1 from '../PinContent/Prisha/Prisha 1.jpeg'
+import Prisha2 from '../PinContent/Prisha/Prisha 2.jpeg'
+import Prisha3 from '../PinContent/Prisha/Prisha 3.jpeg'
+import Prisha4 from '../PinContent/Prisha/Prisha 4.jpeg'
+import Prisha5 from '../PinContent/Prisha/Prisha 5.jpeg'
+import Prisha6 from '../PinContent/Prisha/Prisha 6.jpeg'
+import Prisha7 from '../PinContent/Prisha/Prisha 7.jpeg'
+import Prisha8 from '../PinContent/Prisha/Prisha 8.jpeg'
+import Kritika1 from '../PinContent/Kritika/Kritika 1.jpg'
+import Kritika2 from '../PinContent/Kritika/Kritika 2.jpg'
+import Kritika3 from '../PinContent/Kritika/Kritika 3.jpg'
+import Kritika4 from '../PinContent/Kritika/Kritika 4.jpg'
+import Kritika5 from '../PinContent/Kritika/Kritika 5.jpg'
+import Kritika6 from '../PinContent/Kritika/Kritika 6.jpg'
+import Michelle1 from '../PinContent/Michelle/Michelle 1.jpg'
+import Michelle2 from '../PinContent/Michelle/Michelle 2.jpg'
+import Yelena1 from '../PinContent/Yelena/Yelena 1.jpg'
+import Yelena2 from '../PinContent/Yelena/Yelena 2.jpg'
+import Yelena3 from '../PinContent/Yelena/Yelena 3.jpg'
+import Yelena4 from '../PinContent/Yelena/Yelena 4.jpg'
+import Yelena5 from '../PinContent/Yelena/Yelena 5.jpg'
+import Yelena6 from '../PinContent/Yelena/Yelena 6.jpg'
+import Yelena7 from '../PinContent/Yelena/Yelena 7.jpg'
+import Yelena8 from '../PinContent/Yelena/Yelena 8.jpg'
 
 
 
@@ -29,7 +43,7 @@ const Data = [
       imgSrc:
         Kavya1,
       name: "Kavya",
-      link: "https://pixabay.com/photos/branch-ornaments-lights-tree-6838719/",
+      link: "https://drive.google.com/file/d/1o5ilolvi-Ks0Mx4QzYXkmX2IUKvHcXfN/view?usp=drive_link",
       size: "small",
     },
     {
@@ -37,7 +51,7 @@ const Data = [
       imgSrc:
         Kavya2,
       name: "Kavya",
-      link: "https://pixabay.com/photos/christmas-balls-christmas-advent-6848782/",
+      link: "https://drive.google.com/file/d/1bB-sYZ_u6RYpemxUTPEXjDeLqBDtgOV7/view?usp=drive_link",
       size: "medium",
     },
     {
@@ -45,7 +59,7 @@ const Data = [
       imgSrc:
         Kavya3,
       name: "Kavya",
-      link: "https://pixabay.com/photos/child-boy-run-alley-street-plants-5446839/",
+      link: "https://drive.google.com/file/d/1ht34zS5uQEyDW9elQOBT4gtGx-XXCUY8/view?usp=sharing",
       size: "large",
     },
     {
@@ -53,7 +67,7 @@ const Data = [
       imgSrc:
         Kavya4,
       name: "Kavya",
-      link: "https://pixabay.com/photos/cat-christmas-tree-ornaments-1822979/",
+      link: "https://drive.google.com/file/d/1RS8BP52Mxtm56H6dnSRrOOZtZtEo6l_Z/view?usp=drive_link",
       size: "medium",
     },
     {
@@ -61,7 +75,7 @@ const Data = [
       imgSrc:
         Kavya5,
       name: "Kavya",
-      link: "https://pixabay.com/photos/lemur-animal-wilderness-nature-6762935/",
+      link: "https://drive.google.com/file/d/1hoaYecx2mvKpEbPHeqWLVWvvYQH2XbKu/view?usp=drive_link",
       size: "large",
     },
     {
@@ -69,7 +83,7 @@ const Data = [
       imgSrc:
         Kavya6,
       name: "Kavya",
-      link: "https://pixabay.com/photos/couple-sundown-field-sunset-6705694/",
+      link: "https://drive.google.com/file/d/1-g-dfyl5tSRN504dm4y-nyL7pY5xooAs/view?usp=drive_link",
       size: "small",
     },
     {
@@ -77,7 +91,7 @@ const Data = [
       imgSrc:
         Kavya7,
       name: "Kavya",
-      link: "https://pixabay.com/photos/fantasy-butterflies-mushrooms-2049567/",
+      link: "https://drive.google.com/file/d/1NMJ19v3dZOgit1CWjr2PtiYztHe0BCQu/view?usp=drive_link",
       size: "medium",
     },
     {
@@ -85,7 +99,7 @@ const Data = [
       imgSrc:
         Kavya8,
       name: "Kavya",
-      link: "https://pixabay.com/photos/bird-fluttering-berries-wings-tit-1045954/",
+      link: "https://drive.google.com/file/d/1E8V3UZ_7n2PkKGUM4llgJPm6S6U_cDLZ/view?usp=drive_link",
       size: "large",
     },
     {
@@ -93,7 +107,7 @@ const Data = [
       imgSrc:
         Kavya9,
       name: "Kavya",
-      link: "https://pixabay.com/photos/lantern-sea-sky-beach-water-6826687/",
+      link: "https://drive.google.com/file/d/16xW4s2mWQ_SU07FY-ErMYC8C8ytONICM/view?usp=drive_link",
       size: "medium",
     },
     {
@@ -101,7 +115,7 @@ const Data = [
       imgSrc:
         Kavya10,
       name: "Kavya",
-      link: "https://pixabay.com/photos/tree-snow-winter-christmas-branch-6835828/",
+      link: "https://drive.google.com/file/d/1zS6vNFJGa6quLe93L_GJcRU0PFGjf26t/view?usp=drive_link",
       size: "medium",
     },
     {
@@ -109,7 +123,7 @@ const Data = [
       imgSrc:
         Kavya11,
       name: "Kavya",
-      link: "https://pixabay.com/photos/owl-bird-animal-bird-of-prey-50267/",
+      link: "https://drive.google.com/file/d/1X7sf-MQ70SCepFQHuGFh0OtKP5ny-5nx/view?usp=drive_link",
       size: "small",
     },
     {
@@ -117,7 +131,7 @@ const Data = [
       imgSrc:
         Kavya12,
       name: "Kavya",
-      link: "https://pixabay.com/photos/elephant-watering-hole-baby-elephant-2380009/",
+      link: "https://drive.google.com/file/d/1dPJS2f_4O-Pwdrj3niBEcIcNjK-ID74M/view?usp=drive_link",
       size: "medium",
     },
     {
@@ -187,82 +201,130 @@ const Data = [
     {
       id: 21,
       imgSrc:
-        "https://cdn.pixabay.com/photo/2017/03/16/20/20/man-2150164_960_720.jpg",
-      name: "Fifalinana",
+        Kritika1,
+      name: "Kritika",
       link: "https://pixabay.com/photos/man-waterfalls-bathe-bathing-falls-2150164/",
       size: "large",
     },
     {
       id: 22,
       imgSrc:
-        "https://cdn.pixabay.com/photo/2016/11/29/11/12/rain-1869119_960_720.jpg",
-      name: "Pexel",
+        Kritika2,
+      name: "Kritika",
       link: "https://pixabay.com/photos/rain-woman-brunette-portrait-1869119/",
       size: "medium",
     },
     {
       id: 23,
       imgSrc:
-        "https://cdn.pixabay.com/photo/2016/11/19/11/11/hands-1838659_960_720.jpg",
-      name: "Pexel",
+        Kritika3,
+      name: "Kritika",
       link: "https://pixabay.com/photos/hands-plant-soil-grow-growing-1838659/",
       size: "medium",
     },
     {
       id: 24,
       imgSrc:
-        "https://cdn.pixabay.com/photo/2019/01/25/11/18/girl-3954232_960_720.jpg",
-      name: "Pexel",
+        Kritika4,
+      name: "Kritika",
       link: "https://pixabay.com/photos/girl-rain-femininity-beauty-paris-3954232/",
       size: "large",
     },
     {
       id: 25,
       imgSrc:
-        "https://cdn.pixabay.com/photo/2013/02/20/10/32/snail-83672_960_720.jpg",
-      name: "Larisa",
+        Kritika5,
+      name: "Kritika",
       link: "https://pixabay.com/illustrations/snail-drops-rain-raindrops-mollusk-83672/",
-      size: "samll",
+      size: "small",
     },
     {
       id: 26,
       imgSrc:
-        "https://cdn.pixabay.com/photo/2020/08/30/09/28/buildings-5528981_960_720.jpg",
-      name: "China Town",
+        Kritika6,
+      name: "Kritika",
       link: "https://pixabay.com/photos/buildings-houses-street-city-rain-5528981/",
       size: "small",
     },
     {
       id: 27,
       imgSrc:
-        "https://cdn.pixabay.com/photo/2017/03/12/02/20/triangle-2136288_960_720.jpg",
-      name: "Pyramid",
+        Michelle1,
+      name: "Michelle",
       link: "https://pixabay.com/illustrations/triangle-sky-abstract-wallpaper-2136288/",
       size: "large",
     },
     {
       id: 28,
       imgSrc:
-        "https://cdn.pixabay.com/photo/2020/04/02/23/01/rain-4996916_960_720.jpg",
-      name: "Pyou",
+        Michelle2,
+      name: "Michelle",
       link: "https://pixabay.com/photos/rain-street-tables-cafe-flowers-4996916/",
       size: "small",
     },
     {
       id: 29,
       imgSrc:
-        "https://cdn.pixabay.com/photo/2020/05/19/13/05/heart-5190672_960_720.jpg",
-      name: "Heart",
+        Yelena1,
+      name: "Yelena",
       link: "https://pixabay.com/photos/heart-window-rain-drops-love-5190672/",
       size: "small",
     },
     {
       id: 30,
       imgSrc:
-        "https://cdn.pixabay.com/photo/2014/11/30/14/11/cat-551554_960_720.jpg",
-      name: "cat",
+        Yelena2,
+      name: "Yelena",
       link: "https://pixabay.com/photos/cat-kitten-pet-kitty-young-cat-551554/",
       size: "large",
+    },
+    {
+      id: 31,
+      imgSrc:
+        Yelena3,
+      name: "Yelena",
+      link: "https://pixabay.com/photos/branch-ornaments-lights-tree-6838719/",
+      size: "small",
+    },
+    {
+      id: 32,
+      imgSrc:
+        Yelena4,
+      name: "Yelena",
+      link: "https://pixabay.com/photos/christmas-balls-christmas-advent-6848782/",
+      size: "medium",
+    },
+    {
+      id: 33,
+      imgSrc:
+        Yelena5,
+      name: "Yelena",
+      link: "https://pixabay.com/photos/child-boy-run-alley-street-plants-5446839/",
+      size: "large",
+    },
+    {
+      id: 34,
+      imgSrc:
+        Yelena6,
+      name: "Yelena",
+      link: "https://pixabay.com/photos/cat-christmas-tree-ornaments-1822979/",
+      size: "medium",
+    },
+    {
+      id: 35,
+      imgSrc:
+        Yelena7,
+      name: "Yelena",
+      link: "https://pixabay.com/photos/girl-rain-femininity-beauty-paris-3954232/",
+      size: "large",
+    },
+    {
+      id: 36,
+      imgSrc:
+        Yelena8,
+      name: "Yelena",
+      link: "https://pixabay.com/illustrations/snail-drops-rain-raindrops-mollusk-83672/",
+      size: "small",
     },
   ];
   
