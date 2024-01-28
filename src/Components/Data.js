@@ -167,6 +167,13 @@ import Kathy70 from '../PinContent/Kathy/Kathy 70.jpg'
 import Kathy71 from '../PinContent/Kathy/Kathy 71.jpg'
 import Kathy72 from '../PinContent/Kathy/Kathy 72.jpg'
 
+import Khwaish1 from '../PinContent/Khwaish/Khwaish 1.jpeg'
+import Khwaish2 from '../PinContent/Khwaish/Khwaish 2.jpeg'
+import Khwaish3 from '../PinContent/Khwaish/Khwaish 3.jpeg'
+import Khwaish4 from '../PinContent/Khwaish/Khwaish 4.jpeg'
+import Khwaish5 from '../PinContent/Khwaish/Khwaish 5.jpeg'
+import Khwaish6 from '../PinContent/Khwaish/Khwaish 6.jpeg'
+import Khwaish7 from '../PinContent/Khwaish/Khwaish 7.jpeg'
 
 
 
@@ -1499,7 +1506,62 @@ const Data = [
       link: "https://drive.google.com/file/d/1Gz-YkKvw6JQWdvGVv2IEiHk8NQvG47GU/view?usp=drive_link",
       size: "medium",
     },
-
+    {
+      id: 166,
+      imgSrc:
+        Khwaish1,
+      name: "Khwaish",
+      link: "https://drive.google.com/file/d/1tGUbY-1GRrHDwEGLezF3vM-_0lC9KmRK/view?usp=drive_link",
+      size: "medium",
+    },
+    {
+      id: 167,
+      imgSrc:
+        Khwaish2,
+      name: "Khwaish",
+      link: "https://drive.google.com/file/d/1KjuCCQUw-5KOEaWmC61tI55RQUKUbA8g/view?usp=drive_link",
+      size: "small",
+    },
+    {
+      id: 168,
+      imgSrc:
+        Khwaish3,
+      name: "Khwaish",
+      link: "https://drive.google.com/file/d/1S62-n__KpAF7FpG0lhwEGZaOk8prBuF-/view?usp=drive_link",
+      size: "medium",
+    },
+    {
+      id: 169,
+      imgSrc:
+        Khwaish4,
+      name: "Khwaish",
+      link: "https://drive.google.com/file/d/1rO5bk7mFYyXrLO28i1vxr8PW2FjEeX0E/view?usp=drive_link",
+      size: "medium",
+    },
+    {
+      id: 170,
+      imgSrc:
+        Khwaish5,
+      name: "Khwaish",
+      link: "https://drive.google.com/file/d/1Z_gWp-9Lb8iMPnZh9DBR_EFgD40trinS/view?usp=drive_link",
+      size: "medium",
+    },
+    {
+      id: 171,
+      imgSrc:
+        Khwaish6,
+      name: "Khwaish",
+      link: "https://drive.google.com/file/d/1DSMsyFev6E13pYSIwCmt2oK7cZ0mpndB/view?usp=drive_link",
+      size: "large",
+    },
+    {
+      id: 172,
+      imgSrc:
+        Khwaish7,
+      name: "Khwaish",
+      link: "https://drive.google.com/file/d/1sXcjKG1CQxh3rl_GxT6In2veYEh5htb5/view?usp=drive_link",
+      size: "large",
+    },
   ];
   
   export default Data;
