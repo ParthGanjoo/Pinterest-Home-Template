@@ -177,7 +177,7 @@ const Data = [
         Kavya1,
       name: "Kavya",
       link: "https://drive.google.com/file/d/1o5ilolvi-Ks0Mx4QzYXkmX2IUKvHcXfN/view?usp=drive_link",
-      size: "small",
+      size: "medium",
     },
     {
       id: 2,
@@ -185,7 +185,7 @@ const Data = [
         Kavya2,
       name: "Kavya",
       link: "https://drive.google.com/file/d/1bB-sYZ_u6RYpemxUTPEXjDeLqBDtgOV7/view?usp=drive_link",
-      size: "medium",
+      size: "large",
     },
     {
       id: 3,
@@ -193,7 +193,7 @@ const Data = [
         Kavya3,
       name: "Kavya",
       link: "https://drive.google.com/file/d/1ht34zS5uQEyDW9elQOBT4gtGx-XXCUY8/view?usp=sharing",
-      size: "large",
+      size: "medium",
     },
     {
       id: 4,
@@ -201,7 +201,7 @@ const Data = [
         Kavya4,
       name: "Kavya",
       link: "https://drive.google.com/file/d/1RS8BP52Mxtm56H6dnSRrOOZtZtEo6l_Z/view?usp=drive_link",
-      size: "medium",
+      size: "small",
     },
     {
       id: 5,
@@ -209,7 +209,7 @@ const Data = [
         Kavya5,
       name: "Kavya",
       link: "https://drive.google.com/file/d/1hoaYecx2mvKpEbPHeqWLVWvvYQH2XbKu/view?usp=drive_link",
-      size: "large",
+      size: "small",
     },
     {
       id: 6,
@@ -217,7 +217,7 @@ const Data = [
         Kavya6,
       name: "Kavya",
       link: "https://drive.google.com/file/d/1-g-dfyl5tSRN504dm4y-nyL7pY5xooAs/view?usp=drive_link",
-      size: "small",
+      size: "large",
     },
     {
       id: 7,
@@ -265,7 +265,7 @@ const Data = [
         Kavya12,
       name: "Kavya",
       link: "https://drive.google.com/file/d/1dPJS2f_4O-Pwdrj3niBEcIcNjK-ID74M/view?usp=drive_link",
-      size: "medium",
+      size: "large",
     },
     {
       id: 13,
@@ -377,7 +377,7 @@ const Data = [
         Kritika6,
       name: "Kritika",
       link: "https://drive.google.com/file/d/1bIM2xb8eHKpdZKToADNlnI5x820fKbe2/view?usp=drive_link",
-      size: "small",
+      size: "medium",
     },
     {
       id: 27,
@@ -417,7 +417,7 @@ const Data = [
         Yelena3,
       name: "Yelena",
       link: "https://drive.google.com/file/d/1eySkJ0lGQDfDfbe6HchWs7d9GOOGYWrc/view?usp=drive_link",
-      size: "small",
+      size: "medium",
     },
     {
       id: 32,
@@ -433,7 +433,7 @@ const Data = [
         Yelena5,
       name: "Yelena",
       link: "https://drive.google.com/file/d/1vXiituV9Gn5KK0cbNZoltpljbH0v-FYg/view?usp=drive_link",
-      size: "large",
+      size: "medium",
     },
     {
       id: 34,
@@ -457,7 +457,7 @@ const Data = [
         Yelena8,
       name: "Yelena",
       link: "https://drive.google.com/file/d/1ypYCfLTDVr4gzPxS5tB9-xZ4oLArLS1M/view?usp=drive_link",
-      size: "small",
+      size: "medium",
     },
     {
       id: 37,
@@ -465,7 +465,7 @@ const Data = [
         Kathy1,
       name: "Kathy",
       link: "https://drive.google.com/file/d/1iSUKI3QZMVNbw3fBP9eghosSoOWunZiv/view?usp=drive_link",
-      size: "small",
+      size: "large",
     },
     {
       id: 38,
@@ -713,7 +713,7 @@ const Data = [
       Kritika19,
       name: "Kritika",
       link: "https://drive.google.com/file/d/13RBEmPsCVKuoQUYHCVTB35FIc3EuEI9U/view?usp=drive_link",
-      size: "large",
+      size: "small",
     },
     {
       id: 69,
@@ -961,7 +961,7 @@ const Data = [
       Kritika50,
       name: "Kritika",
       link: "https://drive.google.com/file/d/1eLek_7YSSCysAo5hjCwW1DrNZTGK_Q2w/view?usp=drive_link",
-      size: "large",
+      size: "small",
     },
     {
       id: 100,
@@ -1001,7 +1001,7 @@ const Data = [
       Kritika55,
       name: "Kritika",
       link: "https://drive.google.com/file/d/1D5eA7nA72osfYNQqQZsfkBWPABfaJcz1/view?usp=drive_link",
-      size: "large",
+      size: "small",
     },
     {
       id: 105,
@@ -1201,7 +1201,7 @@ const Data = [
       Kathy35,
       name: "Kathy",
       link: "https://drive.google.com/file/d/1kNF2It7QFkUMqkNftVCcdUrAkANeBrsE/view?usp=drive_link",
-      size: "medium",
+      size: "large",
     },
     {
       id: 129,
@@ -1217,7 +1217,7 @@ const Data = [
       Kathy37,
       name: "Kathy",
       link: "https://drive.google.com/file/d/1oDHLxlGRa5CyrCGuNKjFhvvoS3i8LpFR/view?usp=drive_link",
-      size: "large",
+      size: "small",
     },
     {
       id: 131,
