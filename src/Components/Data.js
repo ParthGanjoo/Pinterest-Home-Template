@@ -175,6 +175,16 @@ import Khwaish5 from '../PinContent/Khwaish/Khwaish 5.jpeg'
 import Khwaish6 from '../PinContent/Khwaish/Khwaish 6.jpeg'
 import Khwaish7 from '../PinContent/Khwaish/Khwaish 7.jpeg'
 
+import Bhavya1 from '../PinContent/Bhavya/Bhavya 1.jpeg'
+import Bhavya2 from '../PinContent/Bhavya/Bhavya 2.jpeg'
+import Bhavya3 from '../PinContent/Bhavya/Bhavya 3.jpeg'
+import Bhavya4 from '../PinContent/Bhavya/Bhavya 4.jpeg'
+import Bhavya5 from '../PinContent/Bhavya/Bhavya 5.jpeg'
+import Bhavya6 from '../PinContent/Bhavya/Bhavya 6.jpeg'
+import Bhavya7 from '../PinContent/Bhavya/Bhavya 7.jpeg'
+import Bhavya8 from '../PinContent/Bhavya/Bhavya 8.jpeg'
+import Bhavya9 from '../PinContent/Bhavya/Bhavya 9.jpeg'
+
 
 
 const Data = [
@@ -1561,6 +1571,78 @@ const Data = [
       name: "Khwaish",
       link: "https://drive.google.com/file/d/1sXcjKG1CQxh3rl_GxT6In2veYEh5htb5/view?usp=drive_link",
       size: "large",
+    },
+    {
+      id: 173,
+      imgSrc:
+        Bhavya1,
+      name: "Bhavya",
+      link: "https://drive.google.com/file/d/1lLh1-7sbekc71eVIsjn3gWd7lYeF4NCN/view?usp=drive_link",
+      size: "medium",
+    },
+    {
+      id: 174,
+      imgSrc:
+        Bhavya2,
+      name: "Bhavya",
+      link: "https://drive.google.com/file/d/1kAWgXd7ouGZMdxWMJYYb0qB4T0YN_MH_/view?usp=drive_link",
+      size: "large",
+    },
+    {
+      id: 175,
+      imgSrc:
+        Bhavya3,
+      name: "Bhavya",
+      link: "https://drive.google.com/file/d/1efRgXtM_1k4IAS-D7pHGf995tWchltvN/view?usp=drive_link",
+      size: "medium",
+    },
+    {
+      id: 176,
+      imgSrc:
+        Bhavya4,
+      name: "Bhavya",
+      link: "https://drive.google.com/file/d/1yCcBpEnXqtAdDhOz73CGbCXDogz3ePKM/view?usp=drive_link",
+      size: "small",
+    },
+    {
+      id: 177,
+      imgSrc:
+        Bhavya5,
+      name: "Bhavya",
+      link: "https://drive.google.com/file/d/1ApVc0-iOFn_xCrVfeu6CI9WaXyK6fqtK/view?usp=drive_link",
+      size: "large",
+    },
+    {
+      id: 178,
+      imgSrc:
+        Bhavya6,
+      name: "Bhavya",
+      link: "https://drive.google.com/file/d/1XAe5djWa1AJTDUQNn1msswvM9sz7pbVu/view?usp=drive_link",
+      size: "small",
+    },
+    {
+      id: 179,
+      imgSrc:
+        Bhavya7,
+      name: "Bhavya",
+      link: "https://drive.google.com/file/d/152bungA10I92foBJj_VodV7IGa79pF1-/view?usp=drive_link",
+      size: "medium",
+    },
+    {
+      id: 180,
+      imgSrc:
+        Bhavya8,
+      name: "Bhavya",
+      link: "https://drive.google.com/file/d/1YkbPYI1i42jGcvw9kWwub8tffPc5bO1C/view?usp=drive_link",
+      size: "large",
+    },
+    {
+      id: 181,
+      imgSrc:
+        Bhavya9,
+      name: "Bhavya",
+      link: "https://drive.google.com/file/d/17-qG-On1D2XrB9yc9LGMUAxlD_mQCenu/view?usp=drive_link",
+      size: "medium",
     },
   ];
   
