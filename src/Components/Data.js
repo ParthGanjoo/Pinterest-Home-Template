@@ -279,7 +279,7 @@ const Data = [
       imgSrc:
         Prisha1,
       name: "Prisha",
-      link: "https://pixabay.com/photos/woman-kid-rain-leaf-umbrella-1807533/",
+      link: "https://drive.google.com/file/d/1PyQZpiKZfBRVPTt94o7zKuNNnp8qPche/view?usp=drive_link",
       size: "large",
     },
     {
@@ -287,7 +287,7 @@ const Data = [
       imgSrc:
         Prisha2,
       name: "Prisha",
-      link: "https://pixabay.com/photos/dog-corgi-pets-cute-rain-4415649/",
+      link: "https://drive.google.com/file/d/1ERTjShshpWHL4QgYqazMT6wpPNqh_71R/view?usp=drive_link",
       size: "medium",
     },
     {
@@ -295,7 +295,7 @@ const Data = [
       imgSrc:
         Prisha3,
       name: "Prisha",
-      link: "https://pixabay.com/photos/japan-osaka-night-asia-landmark-2014619/",
+      link: "https://drive.google.com/file/d/1pRCIWzBOVY5n5F3KwN_k1hVkmr0lHFMb/view?usp=drive_link",
       size: "large",
     },
     {
@@ -303,7 +303,7 @@ const Data = [
       imgSrc:
         Prisha4,
       name: "Prisha",
-      link: "https://pixabay.com/photos/leaf-green-foliage-green-leaves-1001679/",
+      link: "https://drive.google.com/file/d/1_R6v1z1u9tT5OMQAp24LvZSwK8oAoBZB/view?usp=drive_link",
       size: "medium",
     },
     {
@@ -311,7 +311,7 @@ const Data = [
       imgSrc:
         Prisha5,
       name: "Prisha",
-      link: "https://pixabay.com/photos/rose-red-drops-rain-macro-nature-3407234/",
+      link: "https://drive.google.com/file/d/1-Y4fywfff4aRLpM2VCugnxEFEu_yNpaD/view?usp=drive_link",
       size: "medium",
     },
     {
@@ -319,7 +319,7 @@ const Data = [
       imgSrc:
         Prisha6,
       name: "Prisha",
-      link: "https://pixabay.com/photos/park-bench-night-evening-fog-mist-3116883/",
+      link: "https://drive.google.com/file/d/1BMyvdIDGVBcNYP4Ap0osJ5SbhwoBIMec/view?usp=drive_link",
       size: "large",
     },
     {
@@ -327,7 +327,7 @@ const Data = [
       imgSrc:
         Prisha7,
       name: "Prisha",
-      link: "https://pixabay.com/photos/porsche-car-brake-lights-1851246/",
+      link: "https://drive.google.com/file/d/1NjyoiWvdMkiL90jyvvqquYSpBWdaM5Do/view?usp=drive_link",
       size: "small",
     },
     {
@@ -335,7 +335,7 @@ const Data = [
       imgSrc:
         Prisha8,
       name: "Prisha",
-      link: "https://pixabay.com/photos/girl-umbrella-rain-park-autumn-1438138/",
+      link: "https://drive.google.com/file/d/1iSGmMhMPUKJz67l8o2POBuNMQ_ApbFtP/view?usp=drive_link",
       size: "large",
     },
     {
