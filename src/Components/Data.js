@@ -185,7 +185,7 @@ import Bhavya7 from '../PinContent/Bhavya/Bhavya 7.jpeg'
 import Bhavya8 from '../PinContent/Bhavya/Bhavya 8.jpeg'
 import Bhavya9 from '../PinContent/Bhavya/Bhavya 9.jpeg'
 
-
+import Suhani1 from '../PinContent/Suhani/Suhani 1.jpeg'
 
 const Data = [
     {
@@ -1643,6 +1643,14 @@ const Data = [
       name: "Bhavya",
       link: "https://drive.google.com/file/d/17-qG-On1D2XrB9yc9LGMUAxlD_mQCenu/view?usp=drive_link",
       size: "medium",
+    },
+    {
+      id: 182,
+      imgSrc:
+        Suhani1,
+      name: "Suhani",
+      link: "https://drive.google.com/file/d/1XIIE-HHZAfLwW_o6J9cUyup1MLH9qeNu/view?usp=drive_link",
+      size: "large",
     },
   ];
   
