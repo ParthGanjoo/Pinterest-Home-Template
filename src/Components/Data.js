@@ -191,6 +191,13 @@ import Suhani3 from '../PinContent/Suhani/Suhani 3.jpeg'
 import Suhani4 from '../PinContent/Suhani/Suhani 4.jpeg'
 import Suhani5 from '../PinContent/Suhani/Suhani 5.jpeg'
 
+import Yana1 from '../PinContent/Yana/Yana 1.jpeg'
+import Yana2 from '../PinContent/Yana/Yana 2.jpeg'
+import Yana3 from '../PinContent/Yana/Yana 3.jpeg'
+import Yana4 from '../PinContent/Yana/Yana 4.jpeg'
+import Yana5 from '../PinContent/Yana/Yana 5.jpeg'
+import Yana6 from '../PinContent/Yana/Yana 6.jpeg'
+
 
 const Data = [
     {
@@ -1688,6 +1695,54 @@ const Data = [
       name: "Suhani",
       link: "https://drive.google.com/file/d/1AjIN5hXUG71k2HMi7kDOXC_b6XWB7_Kw/view?usp=drive_link",
       size: "medium",
+    },
+    {
+      id: 187,
+      imgSrc:
+        Yana1,
+      name: "Yana",
+      link: "https://drive.google.com/file/d/1XmCbOxfmxWSwsRrDrNdJ825E5z-GpobM/view?usp=drive_link",
+      size: "medium",
+    },
+    {
+      id: 188,
+      imgSrc:
+        Yana2,
+      name: "Yana",
+      link: "https://drive.google.com/file/d/1bT4PNWO5tFUKQiYyYAWcEy101iU2ygFV/view?usp=drive_link",
+      size: "small",
+    },
+    {
+      id: 189,
+      imgSrc:
+        Yana3,
+      name: "Yana",
+      link: "https://drive.google.com/file/d/13Gaf1rbBql7pQSW9C21cyRvyaTQ_jN73/view?usp=drive_link",
+      size: "medium",
+    },
+    {
+      id: 190,
+      imgSrc:
+        Yana4,
+      name: "Yana",
+      link: "https://drive.google.com/file/d/1FZ7Fl_bY8RL75nGqCWYTasrIdQ1D7YhG/view?usp=drive_link",
+      size: "small",
+    },
+    {
+      id: 191,
+      imgSrc:
+        Yana5,
+      name: "Yana",
+      link: "https://drive.google.com/file/d/1uNajsgBtsPXXr8CoMRBnYtLH0fDr6mbz/view?usp=drive_link",
+      size: "large",
+    },
+    {
+      id: 192,
+      imgSrc:
+        Yana6,
+      name: "Yana",
+      link: "https://drive.google.com/file/d/1gnUvGRFGtw_q9xWu1JoSUitW2pD55VEB/view?usp=drive_link",
+      size: "large",
     },
   ];
   
