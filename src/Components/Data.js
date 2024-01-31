@@ -186,6 +186,11 @@ import Bhavya8 from '../PinContent/Bhavya/Bhavya 8.jpeg'
 import Bhavya9 from '../PinContent/Bhavya/Bhavya 9.jpeg'
 
 import Suhani1 from '../PinContent/Suhani/Suhani 1.jpeg'
+import Suhani2 from '../PinContent/Suhani/Suhani 2.jpeg'
+import Suhani3 from '../PinContent/Suhani/Suhani 3.jpeg'
+import Suhani4 from '../PinContent/Suhani/Suhani 4.jpeg'
+import Suhani5 from '../PinContent/Suhani/Suhani 5.jpeg'
+
 
 const Data = [
     {
@@ -1651,6 +1656,38 @@ const Data = [
       name: "Suhani",
       link: "https://drive.google.com/file/d/1XIIE-HHZAfLwW_o6J9cUyup1MLH9qeNu/view?usp=drive_link",
       size: "large",
+    },
+    {
+      id: 183,
+      imgSrc:
+        Suhani2,
+      name: "Suhani",
+      link: "https://drive.google.com/file/d/1P60spU3Uxf9Wq1s1mAlf1YutM7tW_G_2/view?usp=drive_link",
+      size: "medium",
+    },
+    {
+      id: 184,
+      imgSrc:
+        Suhani3,
+      name: "Suhani",
+      link: "https://drive.google.com/file/d/13ioigUpASoZV_cbrwPb9DY9CjGsPO4RM/view?usp=drive_link",
+      size: "large",
+    },
+    {
+      id: 185,
+      imgSrc:
+        Suhani4,
+      name: "Suhani",
+      link: "https://drive.google.com/file/d/1sl99rKyZfcdm-maxuKdNGdoPRAGpHKIZ/view?usp=drive_link",
+      size: "medium",
+    },
+    {
+      id: 186,
+      imgSrc:
+        Suhani5,
+      name: "Suhani",
+      link: "https://drive.google.com/file/d/1AjIN5hXUG71k2HMi7kDOXC_b6XWB7_Kw/view?usp=drive_link",
+      size: "medium",
     },
   ];
   

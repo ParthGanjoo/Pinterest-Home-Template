@@ -81,7 +81,7 @@ function Header() {
                 {isDropdownOpen && (
                     <div className='dropdown-menu'>
                         <img src={PFP} />
-                        <a href="#" target="_blank">Khushi Khanna</a>
+                        <a href="https://drive.google.com/drive/folders/1efGFhQ0Z7xMq9TkYfMWFKYktDzNtLnwJ?usp=drive_link" target="_blank">Khushi Khanna</a>
                     </div>
                 )}
             </div>

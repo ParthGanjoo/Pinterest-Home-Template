@@ -3,11 +3,10 @@ import '../Styles/MidText.css'
 
 function MidText() {
   return (
-    <div className='MidText'>
-        <div className='TextBox'>
-          
-            Pinterest wishes Khushi<br/>A Very Happy Birthday!
-        </div>
+    <div className="banner">
+      <p>Pinterest Wishes Khushi</p>
+      <h1>A Very Happy Birthday!</h1>
+      {/* <p>Discover amazing content and features!</p> */}
     </div>
   )
 }

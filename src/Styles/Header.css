@@ -3,7 +3,7 @@
     align-items: center;
     height: 66px;
     padding-top: 10px;
-    padding-bottom: 38px;
+    padding-bottom: 40px;
     color: #000;
     width: 100%;
 }
@@ -202,4 +202,8 @@
     color:#fff;
     background-color: #D32D2F;
     border-radius:100px;
+}
+
+.dropdown-menu a:hover {
+    background-color: rgb(178, 39, 42); /* Change to the desired hover color */
 }
