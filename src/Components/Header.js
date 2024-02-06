@@ -7,8 +7,9 @@ import { FaUserCircle } from 'react-icons/fa'
 import { MdKeyboardArrowDown } from 'react-icons/md'
 import { useState, useEffect, useRef } from 'react';
 import Logo from '../Assets/Logo (5).png'
-import PFP from '../Assets/PFP.png'
-import PFPcircle from '../Assets/Group 47.png'
+import Img2 from '../Assets/Img2.png'
+import Img3 from '../Assets/Img3.png'
+
 
 function Header() {
 
@@ -35,6 +36,9 @@ function Header() {
         <div className='Header'>
             <div className='Logo'>
                 {/* <GrPinterest size="26px" /> */}
+
+                {/* //Change logo to either original logo or a logo with the friend's initial for personal touch */}
+
                 <img src={Logo} width={26} />
             </div>
 
@@ -75,13 +79,16 @@ function Header() {
 
             <div className='dropdown-container' ref={dropdownRef}>
                 <div className='Account' onClick={handleToggleDropdown}>
-                    <img src={PFPcircle} width={26} />
+                    <img src={Img3} width={26} />
                 </div>
 
                 {isDropdownOpen && (
                     <div className='dropdown-menu'>
-                        <img src={PFP} />
-                        <a href="https://drive.google.com/drive/folders/1efGFhQ0Z7xMq9TkYfMWFKYktDzNtLnwJ?usp=drive_link" target="_blank">Khushi Khanna</a>
+
+                        {/* // Add birthday friend's image for the account profile picture */}
+
+                        <img src={Img2} />
+                        <a href="#" target="_blank">Friend Name</a>
                     </div>
                 )}
             </div>

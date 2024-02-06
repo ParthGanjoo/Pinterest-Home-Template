@@ -5,7 +5,8 @@ function Footer() {
   return (
     <div className='Footer'>
             <p>
-            Happy Birthday Khushi! We all love you :)
+            Happy Birthday *Name*! We all love you :)
+            {/* // Add friend's name in place of *Name* */}
             </p>
     </div>
   )
